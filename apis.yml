@@ -1,8 +1,26 @@
 aid: planby-technologies-inc
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/planby-technologies-inc.png
 name: Planby Technologies, Inc.
-description: Planby Technologies, Inc. is a company surfaced as a portfolio company of 500-global and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Planby Technologies, Inc. (PLANBY) is a Seoul-based AI transformation partner for
+  architecture and construction organizations, helping construction firms, architectural offices, and
+  interior studios adopt AI-powered workflows. Its products include PLANA (interior and concept CG
+  rendering automation) and PLAD (apartment exterior design visualization), which cut visualization
+  timeframes from days to hours, alongside its AX Program for organizational AI transformation
+  (diagnosis, training, and workflow integration) and Knowledge System Building that structures
+  construction data such as blueprints, specifications, and defect records into domain-specific data
+  frameworks. Clients include Samsung E&A, POSCO E&C, Hyundai, Daewoo E&C, and Samsung C&T. Backed by
+  500 Global. PLANBY publishes no public API or developer surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/planby-technologies-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Architecture
+- Construction
+- Rendering
+- Visualization
+- Consulting
+- Seoul
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +47,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/planby-technologies-inc-domain-security.yml
 - type: Website
   url: https://planby.us
+- type: Blog
+  url: https://www.planby.us/blog
+- type: Product
+  url: https://useplana.ai
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
