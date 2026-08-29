@@ -33,6 +33,9 @@ description: 'Planby Technologies, Inc. (PLANBY) is a Seoul-based AI transformat
   frameworks. Clients include Samsung E&A, POSCO E&C, Hyundai, Daewoo E&C, and Samsung C&T. Backed by
   500 Global. PLANBY publishes no public API or developer surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/planby-technologies-inc/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "PLANBY publishes no public API or developer surface at this time."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
