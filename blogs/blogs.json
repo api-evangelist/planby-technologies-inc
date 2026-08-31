@@ -2,6 +2,13 @@
   "repo": "planby-technologies-inc",
   "feeds": [
     {
+      "source": "https://planby.us/rss.xml",
+      "feed_url": "https://planby.us/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://planby.us",
       "feed_url": "https://planby.us/rss.xml",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-08-22T20:20:02Z"
+  "post_count": 4,
+  "fetched": "2026-08-30T22:33:40Z"
 }
