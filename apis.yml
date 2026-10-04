@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/planby-technologies-inc.png
-name: Planby Technologies, Inc.
+name: Planby Technologies
 description: 'Planby Technologies, Inc. (PLANBY) is a Seoul-based AI transformation partner for
   architecture and construction organizations, helping construction firms, architectural offices, and
   interior studios adopt AI-powered workflows. Its products include PLANA (interior and concept CG
@@ -74,3 +74,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Planby Technologies, Inc.
